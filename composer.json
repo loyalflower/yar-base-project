@@ -1,0 +1,18 @@
+{
+    "name": "loyalflower/yar",
+    "description": "yar基础项目结构",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "loyalflower",
+            "email": "zwjzxh520@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {"Yar\\": "src/"}
+    }
+}
